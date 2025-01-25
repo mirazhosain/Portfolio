@@ -27,7 +27,7 @@
 }
 
 body {
-  background-color: var(--color-bg);
+  background-color: var( #1e90ff);
   font-family: "Poppins", sans-serif;
   color: var(--color-white);
   background-image: url(./assets/image/shape-triangle.png);
